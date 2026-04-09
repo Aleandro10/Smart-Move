@@ -1,0 +1,5 @@
+{
+  "name": "SmartMove",
+  "description": "Un'app semplice e vivace per trovare il miglior tragitto con l'aiuto di un'IA simpatica.",
+  "requestFramePermissions": ["geolocation"]
+}
